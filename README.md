@@ -10,7 +10,7 @@ It uses Natural Language Processing (NLP) techniques for text preprocessing and 
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preprocessing">Data Cleaning & Preprocessing</a>
 - <a href="#model">Model</a>
-- - <a href="#results">Results</a>
+- <a href="#results">Results</a>
 - <a href="#conclusion">Conclusion</a>
 
 ---
@@ -98,6 +98,7 @@ Best model was saved as model.pkl (MNB)
 ---
 
 <h2><a class="anchor" id="results"></a>Results</h2>
+
 - multinomial naive bayes gives accuracy ~ 97% and precision score ~ 99.98%
 - logistic regression give accuracy ~ 95% and precision score ~ 97%
 - svm give accuracy ~ 97% and precision score ~ 97%
