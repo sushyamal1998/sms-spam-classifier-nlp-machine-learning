@@ -74,16 +74,6 @@ sms-spam-detection/
 - Vectorize using TF-IDF
 
 ---
-<h2><a class="anchor" id="research-question--key-finding"></a>Research Queation & Key Finding</h2>
-
-- **Top vendor with max profit:**  name DIAGEO NORTH AMERICA INC and profit 17780038.12
-- **Brand for promotion:** 198 brands with low sales and high profit margin
-- **Inventory Turnover:** Total unsold inventory 2.71M
-- **Vendor Profibility:**
-  - High vendors: Mean Margin = 31.17%
-  - Low vendors: Mean Margin = 41.55%
-- **Hypothesis Testing:** significant difference in mean profit margin of top performing and low performing vendor
-  
 
 ---
 
@@ -92,7 +82,7 @@ sms-spam-detection/
 - Trained multiple models:
   - Logistic Regression
   - Naive Bayes (GNB, MNB, BNB)
-  - Support Vector Machine
+  - Support Vector Machine<br>
 Best model was saved as model.pkl (MNB)
 
 ---
